@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Student\ri\matskula\lab7\lab_7_2_2\lab_7_2_2\Source.cpp(58): warning C4715: 'iMin': not all control paths return a value
+C:\Student\ri\matskula\lab7\lab_7_2_2\lab_7_2_2\Source.cpp(45): warning C4715: 'iMax': not all control paths return a value
+  lab_7_2_2.vcxproj -> C:\Student\ri\matskula\lab7\lab_7_2_2\x64\Debug\lab_7_2_2.exe

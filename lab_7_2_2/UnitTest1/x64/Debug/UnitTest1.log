@@ -1,0 +1,3 @@
+﻿  UnitTest1.cpp
+C:\Student\ri\matskula\lab7\lab_7_2_2\UnitTest1\UnitTest1.cpp(19,8): error C2372: 'y': redefinition; different types of indirection
+C:\Student\ri\matskula\lab7\lab_7_2_2\UnitTest1\UnitTest1.cpp(16): message : see declaration of 'y'
